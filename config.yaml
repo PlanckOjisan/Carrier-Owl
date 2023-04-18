@@ -3,9 +3,10 @@ subject: 'cat:cs.*'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+        CBS: 3
+        mapf: 5
+        Multi-Agent Path Finding: 5
+        MRPP: 5
 
 # 通知の閾値
 score_threshold: 0
