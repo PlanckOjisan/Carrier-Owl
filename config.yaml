@@ -4,9 +4,12 @@ subject: 'cat:cs.*'
 # 検索キーワード
 keywords:
         CBS: 3
+        Conflict-Based Search: 5
         mapf: 5
         Multi-Agent Path Finding: 5
+        Multi-Agent Path Planning: 5
         MRPP: 5
+        Multi-Robot Path Plannifg: 5
 
 # 通知の閾値
 score_threshold: 0
